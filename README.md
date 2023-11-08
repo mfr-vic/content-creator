@@ -21,6 +21,5 @@ Now, you can run `python main.py` to be prompted for which post to choose. Alter
 you can run `python main.py <reddit-post-id>` to create a video for a specific post.
 
 # Video Output :
-
 https://github.com/mfr-vic/content-creator/assets/149529717/bdafbcd9-81b0-4d37-b8ec-3ce736fa7762
 
